@@ -1,0 +1,125 @@
+.gpt3__header {
+    display: flex;
+    flex-direction: row;
+}
+
+.gpt3__header-content {
+
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-right: 5rem;
+    padding: 2rem 6rem;
+}
+
+.gpt3__header-content h1 {
+    font-family: var(--font-family);
+    font-size: 62px;
+    line-height: 75px;
+    font-weight: 800;
+    letter-spacing: -0.04em;
+}
+
+.gpt3__header-content p {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27.32px;
+    margin-top: 2rem;
+    color: #81AFDD;
+
+}
+.gpt3__header-content__input {
+    width: 100%;
+    margin: 2rem 0 1rem;
+    display: flex;
+   
+}
+
+.gpt3__header-content__input input {
+
+    flex: 2;
+
+    width: 100%;
+    height: 73px;
+    border-radius: 5px 0px 0px 5px;
+    background-color: #052D56;
+
+    font-family: var(--font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.32px;
+    border: 2px solid var(--color-footer);
+    color: #fff;
+    outline: none;
+    padding: 1rem; 
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+}
+
+.gpt3__header-content__input button {
+    width: 174px;
+    height: 73px;
+    border-radius: 5px 0px 0px 5px;
+    background-color: #FF4820;
+    padding: 1rem;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 400;
+    border: none;
+    color: #fff;
+
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+.gpt3__header-content__peoples {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
+.gpt3__header-content__peoples img {
+
+    width: 182px;
+    height: 40px;
+}
+
+.gpt3__header-content__peoples p {
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 38px;
+    color: #FFFF;
+    margin: 0 0 0 1rem;
+}
+
+.gpt3__header-ai {
+
+    display: flex;
+    justify-content: center;
+    width: 667px;
+    height: 701px;
+    align-items: right;
+}
+
+.gpt3__header-ai img {
+    width: 100%;
+    height: 100%;
+
+}
+
+@media screen and (max-width: 1050px) {
+    .gpt3__header {
+        flex-direction: column;
+    }
+
+    .gpt3__header-content {
+        margin: 0 0 2rem;
+    }
+    
+}
