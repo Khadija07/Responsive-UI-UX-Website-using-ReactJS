@@ -1,0 +1,54 @@
+.gpt3-possibility-section{
+    display: flex;
+    flex-direction: row;
+    padding: 2rem 6rem;
+}
+.gpt3-possibility-image{
+    display: flex;
+    flex: 1;
+    justify-content: flex-start;
+    margin-right: 2rem;
+}
+.gpt3-possibility-image img{
+   width: 80%;
+   height: 100%;
+}
+.gpt3-possibility-content{
+    flex: 1;
+    flex-direction: column;
+    display: flex;
+    justify-content: flex-end;
+}
+.gpt3-possibility-content h3{
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #71E5FF;
+   
+
+}
+.gpt3-possibility-content h1{
+    font-family: Manrope;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 45px;
+    margin-top: 1.5rem;
+
+}
+.gpt3-possibility-content p{
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #81AFDD;
+    margin-top: 2rem;
+
+}
+
+/* two h3 statements */
+.gpt3-possibility-content h3:last-child{
+    margin-top: 2rem;
+    color: #FF8A71;
+
+}

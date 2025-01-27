@@ -1,0 +1,48 @@
+.gpt3-cta-section{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 6rem;
+}
+.gpt3-cta-innersection{
+    padding: 3rem 2rem;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 5px;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+   
+}
+.gpt3-cta-elements{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.gpt3-cta-elements h4{
+    font-family: Manrope;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #0E0E0E;
+
+}
+.gpt3-cta-elements h3{
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 45px;
+    color: #000000;
+}
+.gpt3-cta-button{
+    padding: 20px 40px;
+    border-radius: 45px;
+    background: #000000;
+
+}
+.gpt3-cta-button p{
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    color: white;
+}
