@@ -5,7 +5,7 @@ const article = ({img, date, text}) => {
   return (
     <div className='gpt3-blog-article-section'>
       <div className='gpt3-blog-article-images'>
-        <img src={img} alt='image'/>
+        <img src={img} alt=''/>
       </div>
       <div className='gp3-blog-container'>
         <div>

@@ -1,6 +1,6 @@
 import React from "react"
 
-import { article, Brand, CTA, Navbar } from "./components"
+import { Brand, CTA, Navbar } from "./components"
 import Gpt from "./containers/gpt/Gpt"
 import { Blog, Feature, Footer, Header, Possibility } from "./containers"
 import './App.css'

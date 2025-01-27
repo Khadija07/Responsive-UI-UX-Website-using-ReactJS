@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/UI-UX-Website-using-ReactJS/static/css/main.057c1522.css",
+    "main.js": "/UI-UX-Website-using-ReactJS/static/js/main.ae0ff955.js",
+    "static/media/possibility.png": "/UI-UX-Website-using-ReactJS/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/UI-UX-Website-using-ReactJS/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/UI-UX-Website-using-ReactJS/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/UI-UX-Website-using-ReactJS/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/UI-UX-Website-using-ReactJS/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/UI-UX-Website-using-ReactJS/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/Group 81.png": "/UI-UX-Website-using-ReactJS/static/media/Group 81.4f6ca9bfe6ca2b41b68b.png",
+    "static/media/dropbox.png": "/UI-UX-Website-using-ReactJS/static/media/dropbox.094c7591f150c5ef9fe5.png",
+    "static/media/atlassian.png": "/UI-UX-Website-using-ReactJS/static/media/atlassian.61cf4b42c00e93d5dd6a.png",
+    "static/media/logo.svg": "/UI-UX-Website-using-ReactJS/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/UI-UX-Website-using-ReactJS/index.html",
+    "main.057c1522.css.map": "/UI-UX-Website-using-ReactJS/static/css/main.057c1522.css.map",
+    "main.ae0ff955.js.map": "/UI-UX-Website-using-ReactJS/static/js/main.ae0ff955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.057c1522.css",
+    "static/js/main.ae0ff955.js"
+  ]
+}
